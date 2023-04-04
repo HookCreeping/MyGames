@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\Pre-Prototype-A\bin\Debug\net7.0\Pre-Prototype-A.exe
+C:\Users\54454818835\Desktop\Pre-Prototype-A\bin\Debug\net7.0\Pre-Prototype-A.deps.json
+C:\Users\54454818835\Desktop\Pre-Prototype-A\bin\Debug\net7.0\Pre-Prototype-A.runtimeconfig.json
+C:\Users\54454818835\Desktop\Pre-Prototype-A\bin\Debug\net7.0\Pre-Prototype-A.dll
+C:\Users\54454818835\Desktop\Pre-Prototype-A\bin\Debug\net7.0\Pre-Prototype-A.pdb
+C:\Users\54454818835\Desktop\Pre-Prototype-A\obj\Debug\net7.0\Pre-Prototype-A.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\Pre-Prototype-A\obj\Debug\net7.0\Pre-Prototype-A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\Pre-Prototype-A\obj\Debug\net7.0\Pre-Prototype-A.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\Pre-Prototype-A\obj\Debug\net7.0\Pre-Prototype-A.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\Pre-Prototype-A\obj\Debug\net7.0\Pre-Prototype-A.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\Pre-Prototype-A\obj\Debug\net7.0\Pre-Prototype-A.dll
+C:\Users\54454818835\Desktop\Pre-Prototype-A\obj\Debug\net7.0\refint\Pre-Prototype-A.dll
+C:\Users\54454818835\Desktop\Pre-Prototype-A\obj\Debug\net7.0\Pre-Prototype-A.pdb
+C:\Users\54454818835\Desktop\Pre-Prototype-A\obj\Debug\net7.0\Pre-Prototype-A.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\Pre-Prototype-A\obj\Debug\net7.0\ref\Pre-Prototype-A.dll
