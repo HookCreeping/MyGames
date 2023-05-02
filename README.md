@@ -1,2 +1,2 @@
 # meuPrimeiroJogo
-Meu primeiríssimo jogo eletrônico
+Meus primeiríssimos jogos eletrônicos
