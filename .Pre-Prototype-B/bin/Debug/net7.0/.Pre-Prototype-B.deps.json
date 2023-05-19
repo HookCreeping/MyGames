@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      ".Pre-Prototype-B/1.0.0": {
+        "runtime": {
+          ".Pre-Prototype-B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    ".Pre-Prototype-B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

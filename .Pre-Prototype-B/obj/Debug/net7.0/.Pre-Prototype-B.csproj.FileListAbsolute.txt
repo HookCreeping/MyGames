@@ -1,0 +1,15 @@
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\bin\Debug\net7.0\.Pre-Prototype-B.exe
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\bin\Debug\net7.0\.Pre-Prototype-B.deps.json
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\bin\Debug\net7.0\.Pre-Prototype-B.runtimeconfig.json
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\bin\Debug\net7.0\.Pre-Prototype-B.dll
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\bin\Debug\net7.0\.Pre-Prototype-B.pdb
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\obj\Debug\net7.0\.Pre-Prototype-B.csproj.AssemblyReference.cache
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\obj\Debug\net7.0\.Pre-Prototype-B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\obj\Debug\net7.0\.Pre-Prototype-B.AssemblyInfoInputs.cache
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\obj\Debug\net7.0\.Pre-Prototype-B.AssemblyInfo.cs
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\obj\Debug\net7.0\.Pre-Prototype-B.csproj.CoreCompileInputs.cache
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\obj\Debug\net7.0\.Pre-Prototype-B.dll
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\obj\Debug\net7.0\refint\.Pre-Prototype-B.dll
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\obj\Debug\net7.0\.Pre-Prototype-B.pdb
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\obj\Debug\net7.0\.Pre-Prototype-B.genruntimeconfig.cache
+C:\Users\54454818835\Desktop\MyGames\.Pre-Prototype-B\obj\Debug\net7.0\ref\.Pre-Prototype-B.dll
